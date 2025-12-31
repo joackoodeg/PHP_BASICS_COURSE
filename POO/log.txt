@@ -1,0 +1,10 @@
+2025-12-30 04:10:01 - Se creo la factura: 0
+2025-12-30 04:10:01 - Se creo la factura: 1
+2025-12-30 04:10:01 - Se creo la factura: 2
+2025-12-30 04:10:01 - Se creo la factura: 3
+2025-12-30 04:10:01 - Se creo la factura: 4
+2025-12-30 04:10:01 - Se creo la factura: 5
+2025-12-30 04:10:01 - Se creo la factura: 6
+2025-12-30 04:10:01 - Se creo la factura: 7
+2025-12-30 04:10:01 - Se creo la factura: 8
+2025-12-30 04:10:01 - Se creo la factura: 9
